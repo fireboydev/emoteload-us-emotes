@@ -1,5 +1,5 @@
 ## EmoteLoad - Emotes EN-US
-### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**MUDAR LINGAUGEM**]](emojis.emoteload.ml)
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**MUDAR LINGAUGEM**]](https://emojis.emoteload.ml/)
  
  
 🏠 [**Return to home page**](https://us.emoteload.ml/) 
