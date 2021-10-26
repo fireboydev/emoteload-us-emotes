@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## EmoteLoad - Emotes EN-US
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**MUDAR LINGAUGEM**]](emojis.emoteload.ml)
+ 
+ 
+🏠 [**Return to home page**](https://us.emoteload.ml/) 
+ 
+ 
+**Use the command `*add (code)` to add an emote in your server.**
+   
+  
+- Winning blob | Code: 63297
+ 
+![image](https://media.discordapp.net/attachments/851198408118894592/901087030245728286/winningblob.png) 
+ 
+- Pepo neutral | Code: 18580
+ 
+![image](https://cdn.discordapp.com/attachments/778380099753869336/822437437715382282/1651_peepo_neutral.png)
 
-You can use the [editor on GitHub](https://github.com/fireboydev/emoteload-emotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Peepo think | Code: 74269
+ 
+![image](https://cdn.discordapp.com/attachments/778380099753869336/822439577955467304/PeepoThink.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Cloud Check | Code: 74269
+ 
+[![image](https://media.discordapp.net/attachments/778380099753869336/897147820430225428/Cloud_check.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
 
-### Markdown
+- Cloud WiFi | Code: 30872
+ 
+[![image](https://media.discordapp.net/attachments/778380099753869336/897149192101842974/Cloud_wifi.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Cloud connect | Code: 56325
+ 
+[![image](https://media.discordapp.net/attachments/778380099753869336/897150952686116925/Cloud_connect.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
+ 
+ 
+🏠 [**Return to home page**](https://us.emoteload.ml/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Know the workers
+- Davizin128 (Founder)
+- FIRE BOY (Founder)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fireboydev/emoteload-emotes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© Copyright EmoteLoad 2021. All rights reserved. [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
